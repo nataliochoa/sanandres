@@ -15,7 +15,7 @@
   </ows:ServiceIdentification>
   <ows:ServiceProvider>
     <ows:ProviderName>Natali Ochoa</ows:ProviderName>
-    <ows:ProviderSite xlink:href="http://localhost"/>
+    <ows:ProviderSite xlink:href="https://nataliochoa.github.io/sanandres/sanandres"/>
   </ows:ServiceProvider>
   <Contents>
     <Layer>
